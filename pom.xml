@@ -25,6 +25,25 @@
             <distribution>repo</distribution>
         </license>
     </licenses>	
+    
+    <developers>
+        <developer>
+            <id>jonas</id>
+            <name>Jonas Jasas</name>
+            <email>jonas@baltsoft.com</email>
+            <organization>Baltsoft</organization>
+            <organizationUrl>http://www.baltsoft.com/</organizationUrl>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>+3</timezone>
+
+            <properties>
+                <picUrl>https://avatars3.githubusercontent.com/u/16254748</picUrl>
+            </properties>
+        </developer>
+    </developers>    
 
 	<dependencies>
 		<dependency>
